@@ -4,4 +4,5 @@
 new_array.collect do |string|
   string.reverse! 
 end 
+new_array.join(" ")
 end 
